@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+google-generativeai
+python-docx
+xlsxwriter
+pydantic
+fastapi
+uvicorn
